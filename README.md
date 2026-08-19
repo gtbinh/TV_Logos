@@ -1,4 +1,4 @@
-# Vietnames TV Logos
+# Vietnamese TV Logos
 This is a logo repository for Vietnamese TV .
 
 📂 Format
